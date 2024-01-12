@@ -3,7 +3,7 @@
 ## Daily Challenge
 | # | Date | Title | Solution | Difficulty |
 |---| ---- | ----- | -------- | ---------- |
-|1|[12-Jan-2024][1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/?envType=daily-question&envId=2024-01-12)|[PHP](./halvesAreAlike.php)|Easy|
+|1|12-Jan-2024|[1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/?envType=daily-question&envId=2024-01-12)|[PHP](./halvesAreAlike.php)|Easy|
 
 ## LeetCode 75    
 
