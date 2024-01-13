@@ -10,6 +10,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|7|[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)|[PHP](./reverseWords.php)|Easy|
 |6|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75)|[PHP](./reverseVowels.php)|Easy|
 |5|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[PHP](./reverseVowels.php)|Easy|
 |4|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)|[PHP](./canPlaceFlowers.php)|Easy|
