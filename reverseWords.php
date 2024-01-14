@@ -6,13 +6,12 @@ class Solution {
      * @return String
      */
     function reverseWords($s) {
-        $words = explode(" ", $s);
+        $words = explode(" ", trim($s));
         $reverseWords = array_reverse($words);
         if(in_array("", $reverseWords)){
-            for ($i=0; $i < count($reverseWords); $i++) { 
-                if ($reverseWords[$i] == "") {
-                    unset($reverseWords[$i]);
-                }
+            foreach ($reverseWords as $key => $value) {
+                if ($value == "")
+                unset($reverseWords[$key]);
             }
         }
         $reverseSentence = implode(" ", $reverseWords);
@@ -22,4 +21,4 @@ class Solution {
 }
 
 $obj = new Solution();
-$obj->reverseWords("  hello   world  ");
+$obj->reverseWords("  hello    world  ");
