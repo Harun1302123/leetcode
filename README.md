@@ -3,6 +3,7 @@
 ## Daily Challenge
 | # | Date | Title | Solution | Difficulty |
 |---| ---- | ----- | -------- | ---------- |
+|4|15-Jan-2024|[2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/solutions/4568775/easy-solution/)|[PHP](./findWinners.php)|Medium|
 |3|14-Jan-2024|[1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/?envType=daily-question&envId=2024-01-14)|[PHP](./closeStrings.php)|Medium|
 |2|13-Jan-2024|[1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/?envType=daily-question&envId=2024-01-13)|[PHP](./minSteps.php)|Medium|
 |1|12-Jan-2024|[1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/?envType=daily-question&envId=2024-01-12)|[PHP](./halvesAreAlike.php)|Easy|
@@ -11,6 +12,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|8|[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/solutions/4570492/easy-solve-in-php/)|[PHP](./isSubsequence.php)|Easy|
 |7|[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)|[PHP](./reverseWords.php)|Easy|
 |6|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75)|[PHP](./reverseVowels.php)|Easy|
 |5|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[PHP](./reverseVowels.php)|Easy|
